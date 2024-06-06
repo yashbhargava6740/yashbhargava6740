@@ -10,7 +10,7 @@ Hi! I’m Yash Bhargava, a B.Tech CS student at GLA University, aspiring to beco
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashbhargava6740&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashbhargava6740&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhargava6740&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yashbhargava6740&icon=0&color=0)](https://visitcount.itsvg.in)
